@@ -17,4 +17,4 @@ for item in lista:
 
 print(f"Total de vendas: R${total:.2f}")
 
-gravar_resultados()
+gravar_resultados(total, lista)
